@@ -1,0 +1,35 @@
+1;Evaluation of toxicity profile of kratom (Mitragyna speciosa Korth) decoction in 
+rats,Mitragyna speciosa Korth also known as kratom, is an herbal drug preparation for 
+its therapeutic properties and opioid-replacement therapy. Kratom is consumed in 
+a brewed decoction form in Malaysia and to date, no studies have characterized 
+its chemical and toxicity profile. Thus, this study aims to evaluate kratom 
+decoction's safety and toxicity profile after 28 days of treatment. Mitragynine 
+content was quantified in kratom decoction and used as a marker to determine the 
+concentration. Male and female Sprague Dawley rats were orally treated with 
+vehicle or kratom decoction (10, 50 or 150 mg/kg) and two satellite groups were 
+treated with vehicle and kratom decoction (150 mg/kg). Blood and organs were 
+collected for hematology, biochemical and histopathology analysis at the end of 
+treatment. No mortality was found after 28 days of treatment and no significant 
+changes in body weight and hematology profile, except for low platelet count. 
+High amounts of uric acid, AST, ALT and alkaline phosphatase were found in the 
+biochemical analysis. Histological investigation of the heart and lungs detected 
+no alterations except for the kidney, liver and brain tissues. In conclusion, 
+repeated administration of kratom decoction provided some evidence of toxicity 
+in the kidney and liver with no occurrence of mortality.;2;Mitragynine, an analgesic alkaloid from the plant Mitragyna speciosa (kratom), offers a safer alternative to clinical opioids such as morphine, owing to its 
+more favorable side effect profile. Although kratom has been traditionally used 
+for stimulation and pain management in Southeast Asia, the mitragynine 
+biosynthesis pathway has remained elusive. We embarked on a search for 
+mitragynine biosynthetic genes from the transcriptomes of kratom and other 
+members of the Rubiaceae family. We studied their functions in vitro and 
+in vivo. Our investigations led to the identification of several reductases and 
+an enol methyltransferase that forms a new clade within the SABATH 
+methyltransferase family. Furthermore, we discovered a methyltransferase from 
+Hamelia patens (firebush), which catalyzes the final step. With the tryptamine 
+4-hydroxylase from the psychedelic mushroom Psilocybe cubensis, we accomplished 
+the four-step biosynthesis for mitragynine and its stereoisomer, speciogynine in 
+both yeast and Escherichia coli when supplied with tryptamine and secologanin. 
+Although we have yet to pinpoint the authentic hydroxylase and methyltransferase 
+in kratom, our discovery completes the mitragynine biosynthesis. Through these 
+breakthroughs, we achieved the microbial biosynthesis of kratom opioids for the 
+first time. The remarkable enzyme promiscuity suggests the possibility of 
+generating derivatives and analogs of kratom opioids in heterologous systems.;
